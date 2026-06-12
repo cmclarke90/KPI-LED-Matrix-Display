@@ -1,0 +1,17 @@
+# Credentials — never commit
+settings.toml
+
+# CircuitPython libraries — install from Adafruit bundle
+lib/
+
+# Fonts — download separately (see README)
+fonts/
+
+# macOS
+.DS_Store
+
+# CircuitPython system files
+boot_out.txt
+.fseventsd/
+.Spotlight-V100/
+.Trashes/
